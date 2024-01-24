@@ -1,2 +1,2 @@
 # TaskManager
-A web-application for managing tasks and to-do lists.
+A self-built web-application for managing and creating tasks and to-do lists.
